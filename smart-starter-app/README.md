@@ -1,1 +1,0 @@
-# smart-starter-app-es5
